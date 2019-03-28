@@ -5,18 +5,21 @@
     日期：2019年3月12日12:59:17
 '''
 import turtle
+def draw(size):
+    while size <= 100:
+        count = 1
+        while count <= 5:
+            turtle.forward(size)
+            turtle.right(144)
+            count = count + 1
+        size = size + 10
+
 
 def main():
     '''
     主函数
     '''
-
-count = 1
-while count<=5:
-    turtle.forward(200)
-    turtle.right(144)
-    count=count+1
-
+draw(50)
 
 if __name__== '__main__':
     main()
