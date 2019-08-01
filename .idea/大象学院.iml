@@ -3,11 +3,20 @@
   <component name="NewModuleRootManager">
     <content url="file://D:/GithubProject/GAutomator">
       <sourceFolder url="file://D:/GithubProject/GAutomator/GAutomatorAndroid" isTestSource="false" />
+      <sourceFolder url="file://D:/GithubProject/GAutomator" isTestSource="false" />
     </content>
-    <content url="file://D:/GithubProject/Python-programming-exercises" />
-    <content url="file://D:/GithubProject/自动化接口测试平台" />
-    <content url="file://$MODULE_DIR$" />
-    <content url="file://D:/接口自动化/Sample_Code/Sample_Code" />
+    <content url="file://D:/GithubProject/Python-programming-exercises">
+      <sourceFolder url="file://D:/GithubProject/Python-programming-exercises" isTestSource="false" />
+    </content>
+    <content url="file://D:/GithubProject/自动化接口测试平台">
+      <sourceFolder url="file://D:/GithubProject/自动化接口测试平台" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/book/chapter8" isTestSource="false" />
+    </content>
+    <content url="file://D:/接口自动化/Sample_Code/Sample_Code">
+      <sourceFolder url="file://D:/接口自动化/Sample_Code/Sample_Code" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

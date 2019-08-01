@@ -1,8 +1,5 @@
-def print_models(unprinted_designs,completed_models):
-    while unprinted_designs:
-        temp=unprinted_designs.pop()
-        print('正在打印'+temp)
-        completed_models.append(temp)
+import printing_functions
+
 
 def show_comleted_models(completed_models):
     for completed_model in completed_models:
