@@ -1,3 +1,0 @@
-in python you can :使用with open一个文件，然后传入文件名，as一个别名存到一个对象中
-in python you can :read(), readline()  ,readlines()
-in python you can :在with中使用，如果想在外面使用，先定义一个空字符串，然后把列表中的遍历出来
