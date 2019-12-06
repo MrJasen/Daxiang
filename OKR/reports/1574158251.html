@@ -1,0 +1,1112 @@
+<head>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> - TestReport</title>
+  <style>
+    body {
+      background-color: #f2f2f2;
+      color: #333;
+      margin: 0 auto;
+      width: 960px;
+    }
+    #summary {
+      width: 960px;
+      margin-bottom: 20px;
+    }
+    #summary th {
+      background-color: skyblue;
+      padding: 5px 12px;
+    }
+    #summary td {
+      background-color: lightblue;
+      text-align: center;
+      padding: 4px 8px;
+    }
+    .details {
+      width: 960px;
+      margin-bottom: 20px;
+    }
+    .details th {
+      background-color: skyblue;
+      padding: 5px 12px;
+    }
+    .details tr .passed {
+      background-color: lightgreen;
+    }
+    .details tr .failed {
+      background-color: red;
+    }
+    .details tr .unchecked {
+      background-color: gray;
+    }
+    .details td {
+      background-color: lightblue;
+      padding: 5px 12px;
+    }
+    .details .detail {
+      background-color: lightgrey;
+      font-size: smaller;
+      padding: 5px 10px;
+      line-height: 20px;
+      text-align: left;
+    }
+    .details .success {
+      background-color: greenyellow;
+    }
+    .details .error {
+      background-color: red;
+    }
+    .details .failure {
+      background-color: salmon;
+    }
+    .details .skipped {
+      background-color: gray;
+    }
+
+    .button {
+      font-size: 1em;
+      padding: 6px;
+      width: 4em;
+      text-align: center;
+      background-color: #06d85f;
+      border-radius: 20px/50px;
+      cursor: pointer;
+      transition: all 0.3s ease-out;
+    }
+    a.button{
+      color: gray;
+      text-decoration: none;
+      display: inline-block;
+    }
+    .button:hover {
+      background: #2cffbd;
+    }
+
+    .overlay {
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: rgba(0, 0, 0, 0.7);
+      transition: opacity 500ms;
+      visibility: hidden;
+      opacity: 0;
+      line-height: 25px;
+    }
+    .overlay:target {
+      visibility: visible;
+      opacity: 1;
+    }
+
+    .popup {
+      margin: 70px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 10px;
+      width: 50%;
+      position: relative;
+      transition: all 3s ease-in-out;
+    }
+
+    .popup h2 {
+      margin-top: 0;
+      color: #333;
+      font-family: Tahoma, Arial, sans-serif;
+    }
+    .popup .close {
+      position: absolute;
+      top: 20px;
+      right: 30px;
+      transition: all 200ms;
+      font-size: 30px;
+      font-weight: bold;
+      text-decoration: none;
+      color: #333;
+    }
+    .popup .close:hover {
+      color: #06d85f;
+    }
+    .popup .content {
+      max-height: 80%;
+      overflow: auto;
+      text-align: left;
+    }
+    .popup .separator {
+      color:royalblue
+    }
+
+    @media screen and (max-width: 700px) {
+      .box {
+        width: 70%;
+      }
+      .popup {
+        width: 70%;
+      }
+    }
+
+  </style>
+</head>
+
+<body>
+  <h1>Test Report: </h1>
+
+  <h2>Summary</h2>
+  <table id="summary">
+    <tr>
+      <th>START AT</th>
+      <td colspan="4">2019-11-19 18:10:51</td>
+    </tr>
+    <tr>
+      <th>DURATION</th>
+      <td colspan="4">0.485 seconds</td>
+    </tr>
+    <tr>
+      <th>PLATFORM</th>
+      <td>HttpRunner 2.3.2 </td>
+      <td>CPython 3.7.2 </td>
+      <td colspan="2">Windows-10-10.0.17134-SP0</td>
+    </tr>
+    <tr>
+      <th>STAT</th>
+      <th colspan="2">TESTCASES (success/fail)</th>
+      <th colspan="2">TESTSTEPS (success/fail/error/skip)</th>
+    </tr>
+    <tr>
+      <td>total (details) =></td>
+      <td colspan="2">3 (3/0)</td>
+      <td colspan="2">3 (3/0/0/0)</td>
+    </tr>
+  </table>
+
+  <h2>Details</h2>
+
+  
+  
+  <h3>create user f33786ede5a203c8e68c928d23c684f7</h3>
+  <table id="suite_1" class="details">
+    <tr>
+      <td>TOTAL: 1</td>
+      <td>SUCCESS: 1</td>
+      <td>FAILED: 0</td>
+      <td>ERROR: 0</td>
+      <td>SKIPPED: 0</td>
+    </tr>
+    <tr>
+      <th>Status</th>
+      <th colspan="2">Name</th>
+      <th>Response Time</th>
+      <th>Detail</th>
+    </tr>
+
+    
+    
+    
+    <tr id="record_1_1">
+      <th class="success" style="width:5em;">success</th>
+      <td colspan="2">设备登录</td>
+      <td style="text-align:center;width:6em;">191.49 ms</td>
+      <td class="detail">
+
+        
+        
+        <a class="button" href="#popup_log_1_1_1">log-1</a>
+        <div id="popup_log_1_1_1" class="overlay">
+          <div class="popup">
+            <h2>Request and Response data</h2>
+            <a class="close" href="#record_1_1_1">&times;</a>
+
+            <div class="content">
+              <h3>Name: 设备登录</h3>
+
+              
+
+              
+
+              <h3>Request:</h3>
+              <div style="overflow: auto">
+                <table>
+                  
+                    <tr>
+                      <th>url</th>
+                      <td>
+                        
+                          http://xproxy.ksmobile.com/6/cgi/device_login
+                        
+                      </td>
+                    </tr>
+                  
+                    <tr>
+                      <th>method</th>
+                      <td>
+                        
+                          POST
+                        
+                      </td>
+                    </tr>
+                  
+                    <tr>
+                      <th>headers</th>
+                      <td>
+                        
+                          
+                          <div>
+                            <strong>User-Agent</strong>: python-requests/2.22.0
+                          </div>
+                          
+                          <div>
+                            <strong>Accept-Encoding</strong>: gzip, deflate
+                          </div>
+                          
+                          <div>
+                            <strong>Accept</strong>: */*
+                          </div>
+                          
+                          <div>
+                            <strong>Connection</strong>: keep-alive
+                          </div>
+                          
+                          <div>
+                            <strong>Expect</strong>: 100-continue
+                          </div>
+                          
+                          <div>
+                            <strong>sig</strong>: Z9K9P7tOhH5pGHXFy1fafhE8UJM
+                          </div>
+                          
+                          <div>
+                            <strong>Content-Type</strong>: application/x-www-form-urlencoded
+                          </div>
+                          
+                          <div>
+                            <strong>appid</strong>: 175309054
+                          </div>
+                          
+                          <div>
+                            <strong>sid</strong>: 123456
+                          </div>
+                          
+                          <div>
+                            <strong>Content-Length</strong>: 95
+                          </div>
+                          
+                        
+                      </td>
+                    </tr>
+                  
+                    <tr>
+                      <th>body</th>
+                      <td>
+                        
+                          did=f33786ede5a203c8e68c928d23c684f7&sign=e4d03869cdcfd18654f0e046f2fd8897&type=1&extra=getuser
+                        
+                      </td>
+                    </tr>
+                  
+                </table>
+              </div>
+
+              <h3>Response:</h3>
+              <div style="overflow: auto">
+                <table>
+                    
+                      <tr>
+                        <th>ok</th>
+                        <td>
+                          
+                            True
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>url</th>
+                        <td>
+                          
+                            http://xproxy.ksmobile.com/6/cgi/device_login
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>status_code</th>
+                        <td>
+                          
+                            200
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>reason</th>
+                        <td>
+                          
+                            OK
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>cookies</th>
+                        <td>
+                          
+                            {}
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>encoding</th>
+                        <td>
+                          
+                            utf-8
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>headers</th>
+                        <td>
+                          
+                            
+                            <div>
+                              <strong>Date</strong>: Tue, 19 Nov 2019 10:10:51 GMT
+                            </div>
+                            
+                            <div>
+                              <strong>Content-Type</strong>: application/json; charset=utf-8
+                            </div>
+                            
+                            <div>
+                              <strong>Content-Length</strong>: 687
+                            </div>
+                            
+                            <div>
+                              <strong>Connection</strong>: keep-alive
+                            </div>
+                            
+                            <div>
+                              <strong>Server</strong>: openresty
+                            </div>
+                            
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>content_type</th>
+                        <td>
+                          
+                            application/json; charset=utf-8
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>json</th>
+                        <td>
+                          
+                              <pre>{&#39;data&#39;: {&#39;sid&#39;: &#39;2ef6a03fea8530a7000000005dd3bfab&#39;, &#39;sso_token&#39;: &#39;db759bdfcbbf0b7857830bc961a3bf66410421bdc9a5eb8b541d674ecf5c70467087f9a7e143e59e&#39;, &#39;expires_in&#39;: 5184000, &#39;login_type&#39;: &#39;95&#39;, &#39;extra&#39;: {&#39;bind_info&#39;: None, &#39;bind_list&#39;: [], &#39;user_info&#39;: {&#39;avatar&#39;: &#39;&#39;, &#39;birthday&#39;: &#39;&#39;, &#39;ctime&#39;: &#39;1574156856&#39;, &#39;education&#39;: &#39;0&#39;, &#39;email&#39;: &#39;&#39;, &#39;mobile&#39;: &#39;&#39;, &#39;name&#39;: &#39;&#39;, &#39;remark&#39;: &#39;&#39;, &#39;sign&#39;: &#39;&#39;, &#39;access_token&#39;: &#39;21a2c3ab5b3f2b95914a767339346e74f2b42460&#39;, &#39;location&#39;: &#39;&#39;, &#39;fullname&#39;: &#39;&#39;, &#39;nickname&#39;: &#39;猎豹_109973504&#39;, &#39;open_id&#39;: &#39;1196726711271428096&#39;, &#39;open_idx&#39;: &#39;1f1b4d36f01cac6a7087f9a7e143e59e&#39;, &#39;gender&#39;: &#39;0&#39;, &#39;has_pwd&#39;: &#39;0&#39;, &#39;is_active&#39;: False, &#39;is_email&#39;: False, &#39;is_mobile&#39;: False, &#39;is_zombies&#39;: False, &#39;mcc&#39;: &#39;0&#39;, &#39;profession&#39;: &#39;0&#39;}}}, &#39;ret&#39;: 1}</pre>
+                          
+                        </td>
+                      </tr>
+                    
+                  </table>
+              </div>
+              
+
+              <h3>Validators:</h3>
+              <div style="overflow: auto">
+                  <table>
+                    <tr>
+                      <th>check</th>
+                      <th>comparator</th>
+                      <th>expect value</th>
+                      <th>actual value</th>
+                    </tr>
+                    
+                    <tr>
+                      
+                      <td class="passed">
+                      
+                        status_code
+                      </td>
+                      <td>equals</td>
+                      <td>200</td>
+                      <td>200</td>
+                    </tr>
+                    
+                    <tr>
+                      
+                      <td class="passed">
+                      
+                        headers.Content-Type
+                      </td>
+                      <td>equals</td>
+                      <td>application/json; charset=utf-8</td>
+                      <td>application/json; charset=utf-8</td>
+                    </tr>
+                    
+                    <tr>
+                      
+                      <td class="passed">
+                      
+                        content.ret
+                      </td>
+                      <td>equals</td>
+                      <td>1</td>
+                      <td>1</td>
+                    </tr>
+                    
+                  </table>
+              </div>
+
+              <h3>Statistics:</h3>
+              <div style="overflow: auto">
+                <table>
+                  <tr>
+                      <th>content_size(bytes)</th>
+                      <td>687</td>
+                    </tr>
+                  <tr>
+                    <th>response_time(ms)</th>
+                    <td>191.49</td>
+                  </tr>
+                  <tr>
+                    <th>elapsed(ms)</th>
+                    <td>188.921</td>
+                  </tr>
+                </table>
+              </div>
+
+            </div>
+          </div>
+        </div>
+        
+
+        
+
+      </td>
+    </tr>
+  
+  </table>
+  
+  
+  <h3>create user f3c0d4250b20090c27329d727e5ce842</h3>
+  <table id="suite_2" class="details">
+    <tr>
+      <td>TOTAL: 1</td>
+      <td>SUCCESS: 1</td>
+      <td>FAILED: 0</td>
+      <td>ERROR: 0</td>
+      <td>SKIPPED: 0</td>
+    </tr>
+    <tr>
+      <th>Status</th>
+      <th colspan="2">Name</th>
+      <th>Response Time</th>
+      <th>Detail</th>
+    </tr>
+
+    
+    
+    
+    <tr id="record_2_1">
+      <th class="success" style="width:5em;">success</th>
+      <td colspan="2">设备登录</td>
+      <td style="text-align:center;width:6em;">124.70 ms</td>
+      <td class="detail">
+
+        
+        
+        <a class="button" href="#popup_log_2_1_1">log-1</a>
+        <div id="popup_log_2_1_1" class="overlay">
+          <div class="popup">
+            <h2>Request and Response data</h2>
+            <a class="close" href="#record_2_1_1">&times;</a>
+
+            <div class="content">
+              <h3>Name: 设备登录</h3>
+
+              
+
+              
+
+              <h3>Request:</h3>
+              <div style="overflow: auto">
+                <table>
+                  
+                    <tr>
+                      <th>url</th>
+                      <td>
+                        
+                          http://xproxy.ksmobile.com/6/cgi/device_login
+                        
+                      </td>
+                    </tr>
+                  
+                    <tr>
+                      <th>method</th>
+                      <td>
+                        
+                          POST
+                        
+                      </td>
+                    </tr>
+                  
+                    <tr>
+                      <th>headers</th>
+                      <td>
+                        
+                          
+                          <div>
+                            <strong>User-Agent</strong>: python-requests/2.22.0
+                          </div>
+                          
+                          <div>
+                            <strong>Accept-Encoding</strong>: gzip, deflate
+                          </div>
+                          
+                          <div>
+                            <strong>Accept</strong>: */*
+                          </div>
+                          
+                          <div>
+                            <strong>Connection</strong>: keep-alive
+                          </div>
+                          
+                          <div>
+                            <strong>Expect</strong>: 100-continue
+                          </div>
+                          
+                          <div>
+                            <strong>sig</strong>: Z9K9P7tOhH5pGHXFy1fafhE8UJM
+                          </div>
+                          
+                          <div>
+                            <strong>Content-Type</strong>: application/x-www-form-urlencoded
+                          </div>
+                          
+                          <div>
+                            <strong>appid</strong>: 175309054
+                          </div>
+                          
+                          <div>
+                            <strong>sid</strong>: 123456
+                          </div>
+                          
+                          <div>
+                            <strong>Content-Length</strong>: 95
+                          </div>
+                          
+                        
+                      </td>
+                    </tr>
+                  
+                    <tr>
+                      <th>body</th>
+                      <td>
+                        
+                          did=f3c0d4250b20090c27329d727e5ce842&sign=b17b2aa5f780aa1129304c12384eca17&type=1&extra=getuser
+                        
+                      </td>
+                    </tr>
+                  
+                </table>
+              </div>
+
+              <h3>Response:</h3>
+              <div style="overflow: auto">
+                <table>
+                    
+                      <tr>
+                        <th>ok</th>
+                        <td>
+                          
+                            True
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>url</th>
+                        <td>
+                          
+                            http://xproxy.ksmobile.com/6/cgi/device_login
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>status_code</th>
+                        <td>
+                          
+                            200
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>reason</th>
+                        <td>
+                          
+                            OK
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>cookies</th>
+                        <td>
+                          
+                            {}
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>encoding</th>
+                        <td>
+                          
+                            utf-8
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>headers</th>
+                        <td>
+                          
+                            
+                            <div>
+                              <strong>Date</strong>: Tue, 19 Nov 2019 10:10:51 GMT
+                            </div>
+                            
+                            <div>
+                              <strong>Content-Type</strong>: application/json; charset=utf-8
+                            </div>
+                            
+                            <div>
+                              <strong>Content-Length</strong>: 685
+                            </div>
+                            
+                            <div>
+                              <strong>Connection</strong>: keep-alive
+                            </div>
+                            
+                            <div>
+                              <strong>Server</strong>: openresty
+                            </div>
+                            
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>content_type</th>
+                        <td>
+                          
+                            application/json; charset=utf-8
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>json</th>
+                        <td>
+                          
+                              <pre>{&#39;data&#39;: {&#39;sid&#39;: &#39;18032af339e371a4000000005dd3bfab&#39;, &#39;sso_token&#39;: &#39;a0b94b099b304cfb3c858b6fa984a229410421bdc9a5eb8b541d674ecf5c70467087f9a7e143e59e&#39;, &#39;expires_in&#39;: 5184000, &#39;login_type&#39;: &#39;95&#39;, &#39;extra&#39;: {&#39;bind_info&#39;: None, &#39;bind_list&#39;: [], &#39;user_info&#39;: {&#39;avatar&#39;: &#39;&#39;, &#39;birthday&#39;: &#39;&#39;, &#39;ctime&#39;: &#39;1574157969&#39;, &#39;education&#39;: &#39;0&#39;, &#39;email&#39;: &#39;&#39;, &#39;mobile&#39;: &#39;&#39;, &#39;name&#39;: &#39;&#39;, &#39;remark&#39;: &#39;&#39;, &#39;sign&#39;: &#39;&#39;, &#39;access_token&#39;: &#39;21a2c3ab3ce7f8805fd5188015e12fa70e8f6cd7&#39;, &#39;location&#39;: &#39;&#39;, &#39;fullname&#39;: &#39;&#39;, &#39;nickname&#39;: &#39;猎豹_5378048&#39;, &#39;open_id&#39;: &#39;1196731377648799744&#39;, &#39;open_idx&#39;: &#39;43c9221ace23d10a7087f9a7e143e59e&#39;, &#39;gender&#39;: &#39;0&#39;, &#39;has_pwd&#39;: &#39;0&#39;, &#39;is_active&#39;: False, &#39;is_email&#39;: False, &#39;is_mobile&#39;: False, &#39;is_zombies&#39;: False, &#39;mcc&#39;: &#39;0&#39;, &#39;profession&#39;: &#39;0&#39;}}}, &#39;ret&#39;: 1}</pre>
+                          
+                        </td>
+                      </tr>
+                    
+                  </table>
+              </div>
+              
+
+              <h3>Validators:</h3>
+              <div style="overflow: auto">
+                  <table>
+                    <tr>
+                      <th>check</th>
+                      <th>comparator</th>
+                      <th>expect value</th>
+                      <th>actual value</th>
+                    </tr>
+                    
+                    <tr>
+                      
+                      <td class="passed">
+                      
+                        status_code
+                      </td>
+                      <td>equals</td>
+                      <td>200</td>
+                      <td>200</td>
+                    </tr>
+                    
+                    <tr>
+                      
+                      <td class="passed">
+                      
+                        headers.Content-Type
+                      </td>
+                      <td>equals</td>
+                      <td>application/json; charset=utf-8</td>
+                      <td>application/json; charset=utf-8</td>
+                    </tr>
+                    
+                    <tr>
+                      
+                      <td class="passed">
+                      
+                        content.ret
+                      </td>
+                      <td>equals</td>
+                      <td>1</td>
+                      <td>1</td>
+                    </tr>
+                    
+                  </table>
+              </div>
+
+              <h3>Statistics:</h3>
+              <div style="overflow: auto">
+                <table>
+                  <tr>
+                      <th>content_size(bytes)</th>
+                      <td>685</td>
+                    </tr>
+                  <tr>
+                    <th>response_time(ms)</th>
+                    <td>124.7</td>
+                  </tr>
+                  <tr>
+                    <th>elapsed(ms)</th>
+                    <td>123.334</td>
+                  </tr>
+                </table>
+              </div>
+
+            </div>
+          </div>
+        </div>
+        
+
+        
+
+      </td>
+    </tr>
+  
+  </table>
+  
+  
+  <h3>create user 0d38ae455d1553a574e3cb5c48ce247e</h3>
+  <table id="suite_3" class="details">
+    <tr>
+      <td>TOTAL: 1</td>
+      <td>SUCCESS: 1</td>
+      <td>FAILED: 0</td>
+      <td>ERROR: 0</td>
+      <td>SKIPPED: 0</td>
+    </tr>
+    <tr>
+      <th>Status</th>
+      <th colspan="2">Name</th>
+      <th>Response Time</th>
+      <th>Detail</th>
+    </tr>
+
+    
+    
+    
+    <tr id="record_3_1">
+      <th class="success" style="width:5em;">success</th>
+      <td colspan="2">设备登录</td>
+      <td style="text-align:center;width:6em;">136.64 ms</td>
+      <td class="detail">
+
+        
+        
+        <a class="button" href="#popup_log_3_1_1">log-1</a>
+        <div id="popup_log_3_1_1" class="overlay">
+          <div class="popup">
+            <h2>Request and Response data</h2>
+            <a class="close" href="#record_3_1_1">&times;</a>
+
+            <div class="content">
+              <h3>Name: 设备登录</h3>
+
+              
+
+              
+
+              <h3>Request:</h3>
+              <div style="overflow: auto">
+                <table>
+                  
+                    <tr>
+                      <th>url</th>
+                      <td>
+                        
+                          http://xproxy.ksmobile.com/6/cgi/device_login
+                        
+                      </td>
+                    </tr>
+                  
+                    <tr>
+                      <th>method</th>
+                      <td>
+                        
+                          POST
+                        
+                      </td>
+                    </tr>
+                  
+                    <tr>
+                      <th>headers</th>
+                      <td>
+                        
+                          
+                          <div>
+                            <strong>User-Agent</strong>: python-requests/2.22.0
+                          </div>
+                          
+                          <div>
+                            <strong>Accept-Encoding</strong>: gzip, deflate
+                          </div>
+                          
+                          <div>
+                            <strong>Accept</strong>: */*
+                          </div>
+                          
+                          <div>
+                            <strong>Connection</strong>: keep-alive
+                          </div>
+                          
+                          <div>
+                            <strong>Expect</strong>: 100-continue
+                          </div>
+                          
+                          <div>
+                            <strong>sig</strong>: Z9K9P7tOhH5pGHXFy1fafhE8UJM
+                          </div>
+                          
+                          <div>
+                            <strong>Content-Type</strong>: application/x-www-form-urlencoded
+                          </div>
+                          
+                          <div>
+                            <strong>appid</strong>: 175309054
+                          </div>
+                          
+                          <div>
+                            <strong>sid</strong>: 123456
+                          </div>
+                          
+                          <div>
+                            <strong>Content-Length</strong>: 95
+                          </div>
+                          
+                        
+                      </td>
+                    </tr>
+                  
+                    <tr>
+                      <th>body</th>
+                      <td>
+                        
+                          did=0d38ae455d1553a574e3cb5c48ce247e&sign=dac727fb020bbf38caba4df0faf1dce7&type=1&extra=getuser
+                        
+                      </td>
+                    </tr>
+                  
+                </table>
+              </div>
+
+              <h3>Response:</h3>
+              <div style="overflow: auto">
+                <table>
+                    
+                      <tr>
+                        <th>ok</th>
+                        <td>
+                          
+                            True
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>url</th>
+                        <td>
+                          
+                            http://xproxy.ksmobile.com/6/cgi/device_login
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>status_code</th>
+                        <td>
+                          
+                            200
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>reason</th>
+                        <td>
+                          
+                            OK
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>cookies</th>
+                        <td>
+                          
+                            {}
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>encoding</th>
+                        <td>
+                          
+                            utf-8
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>headers</th>
+                        <td>
+                          
+                            
+                            <div>
+                              <strong>Date</strong>: Tue, 19 Nov 2019 10:10:52 GMT
+                            </div>
+                            
+                            <div>
+                              <strong>Content-Type</strong>: application/json; charset=utf-8
+                            </div>
+                            
+                            <div>
+                              <strong>Content-Length</strong>: 686
+                            </div>
+                            
+                            <div>
+                              <strong>Connection</strong>: keep-alive
+                            </div>
+                            
+                            <div>
+                              <strong>Server</strong>: openresty
+                            </div>
+                            
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>content_type</th>
+                        <td>
+                          
+                            application/json; charset=utf-8
+                          
+                        </td>
+                      </tr>
+                    
+                      <tr>
+                        <th>json</th>
+                        <td>
+                          
+                              <pre>{&#39;data&#39;: {&#39;sid&#39;: &#39;490b0ee8fb3e2b8f000000005dd3bfac&#39;, &#39;sso_token&#39;: &#39;07d84e8458f1ce6e3f821c618dbd8dca410421bdc9a5eb8b093960b127126dba7087f9a7e143e59e&#39;, &#39;expires_in&#39;: 5184000, &#39;login_type&#39;: &#39;95&#39;, &#39;extra&#39;: {&#39;bind_info&#39;: None, &#39;bind_list&#39;: [], &#39;user_info&#39;: {&#39;avatar&#39;: &#39;&#39;, &#39;birthday&#39;: &#39;&#39;, &#39;ctime&#39;: &#39;1574157985&#39;, &#39;education&#39;: &#39;0&#39;, &#39;email&#39;: &#39;&#39;, &#39;mobile&#39;: &#39;&#39;, &#39;name&#39;: &#39;&#39;, &#39;remark&#39;: &#39;&#39;, &#39;sign&#39;: &#39;&#39;, &#39;access_token&#39;: &#39;21a2c3ac54f78e19e58c265e65c5006df740807b&#39;, &#39;location&#39;: &#39;&#39;, &#39;fullname&#39;: &#39;&#39;, &#39;nickname&#39;: &#39;猎豹_38408192&#39;, &#39;open_id&#39;: &#39;1196731445596000256&#39;, &#39;open_idx&#39;: &#39;a8679b7dfd5f29e77087f9a7e143e59e&#39;, &#39;gender&#39;: &#39;0&#39;, &#39;has_pwd&#39;: &#39;0&#39;, &#39;is_active&#39;: False, &#39;is_email&#39;: False, &#39;is_mobile&#39;: False, &#39;is_zombies&#39;: False, &#39;mcc&#39;: &#39;0&#39;, &#39;profession&#39;: &#39;0&#39;}}}, &#39;ret&#39;: 1}</pre>
+                          
+                        </td>
+                      </tr>
+                    
+                  </table>
+              </div>
+              
+
+              <h3>Validators:</h3>
+              <div style="overflow: auto">
+                  <table>
+                    <tr>
+                      <th>check</th>
+                      <th>comparator</th>
+                      <th>expect value</th>
+                      <th>actual value</th>
+                    </tr>
+                    
+                    <tr>
+                      
+                      <td class="passed">
+                      
+                        status_code
+                      </td>
+                      <td>equals</td>
+                      <td>200</td>
+                      <td>200</td>
+                    </tr>
+                    
+                    <tr>
+                      
+                      <td class="passed">
+                      
+                        headers.Content-Type
+                      </td>
+                      <td>equals</td>
+                      <td>application/json; charset=utf-8</td>
+                      <td>application/json; charset=utf-8</td>
+                    </tr>
+                    
+                    <tr>
+                      
+                      <td class="passed">
+                      
+                        content.ret
+                      </td>
+                      <td>equals</td>
+                      <td>1</td>
+                      <td>1</td>
+                    </tr>
+                    
+                  </table>
+              </div>
+
+              <h3>Statistics:</h3>
+              <div style="overflow: auto">
+                <table>
+                  <tr>
+                      <th>content_size(bytes)</th>
+                      <td>686</td>
+                    </tr>
+                  <tr>
+                    <th>response_time(ms)</th>
+                    <td>136.64</td>
+                  </tr>
+                  <tr>
+                    <th>elapsed(ms)</th>
+                    <td>134.791</td>
+                  </tr>
+                </table>
+              </div>
+
+            </div>
+          </div>
+        </div>
+        
+
+        
+
+      </td>
+    </tr>
+  
+  </table>
+  
+</body>

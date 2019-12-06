@@ -25,10 +25,17 @@
 # n1=255
 # print(hex(n1))
 
-def my_abs(x):
-    if x<=0:
-        return -x
-    else:
-        return x
-print(my_abs(-100))
+# def my_abs(x):
+#     if x<=0:
+#         return -x
+#     else:
+#         return x
+# print(my_abs(-100))
 
+# a=20
+# print('a=',a)
+l = list()    # 实例化一个 list 对象 l
+l.append(1)    # 调用 l 的 append 方法
+l.append(2)
+l.remove(1)
+print(l.__len__())    # 调用对象的 `__len__` 方法

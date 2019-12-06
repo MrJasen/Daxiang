@@ -4,18 +4,31 @@
     <bookmark url="file://$PROJECT_DIR$/book/chapter8/8_demo_03.py" line="0" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bccf8dc0-4e82-41d1-8865-863a78f61c00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/book/chapter8/8-11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/chapter8/8-12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/chapter8/8-13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/chapter8/8-14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/chapter8/make_pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/chapter8/pizaa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/chapter8/printing_functions.py" afterDir="false" />
+    <list default="true" id="bccf8dc0-4e82-41d1-8865-863a78f61c00" name="Default Changelist" comment="Default Changelist">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/大象学院.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/大象学院.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/chapter8/33b76dc3e7557e76cb38fe6cd3af3951.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/chapter8/小度otr截图比对.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/chapter8/8_demo_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/chapter8/8_demo_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumTest/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppiumTest/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoTest/guest/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoTest/guest/guest/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoTest/guest/guest/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoTest/guest/guest/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoTest/guest/guest/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoTest/guest/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoTest/guest/sign/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoTest/guest/sign/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoTest/guest/sign/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoTest/guest/sign/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoTest/guest/sign/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoTest/guest/sign/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoTest/guest/sign/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoTest/guest/sign/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/button.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小工具/cpu_mem_report.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/小工具/cpu_mem_report.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/廖雪峰/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/廖雪峰/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/廖雪峰/tupleTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/廖雪峰/tupleTest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,102 +37,162 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/$demo.coverage" NAME="分形树demo Coverage Results" MODIFIED="1564372104630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘制分形树" />
-    <SUITE FILE_PATH="coverage/$pytest_in_api_automation_test.coverage" NAME="pytest in api_automation_test Coverage Results" MODIFIED="1564371375766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test" />
-    <SUITE FILE_PATH="coverage/$3_8.coverage" NAME="3-8 Coverage Results" MODIFIED="1553851662974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$5_4.coverage" NAME="5-4 Coverage Results" MODIFIED="1562135861905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$pytest_for_test_token_TestToken_test_basic_01.coverage" NAME="pytest for test_token.TestToken.test_basic_01 Coverage Results" MODIFIED="1568863171302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../接口自动化/API_Automation-master/API_Automation-master/TestCase" />
+    <SUITE FILE_PATH="coverage/$adb2.coverage" NAME="识别adb端口占用情况2 Coverage Results" MODIFIED="1572436832547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/$demo.coverage" NAME="demo Coverage Results" MODIFIED="1572859681369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
+    <SUITE FILE_PATH="coverage/$__1_.coverage" NAME="请求百度 (1) Coverage Results" MODIFIED="1571819134956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/请求接口" />
+    <SUITE FILE_PATH="coverage/$adb.coverage" NAME="识别adb端口占用情况 Coverage Results" MODIFIED="1574928269361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/$write_book.coverage" NAME="write_book Coverage Results" MODIFIED="1566529742456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter10" />
+    <SUITE FILE_PATH="coverage/$login.coverage" NAME="login Coverage Results" MODIFIED="1571821420876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/worldcreator" />
     <SUITE FILE_PATH="coverage/$8_11.coverage" NAME="8-11 Coverage Results" MODIFIED="1564629465588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
+    <SUITE FILE_PATH="coverage/$9_6.coverage" NAME="9-6 Coverage Results" MODIFIED="1565336466270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter9" />
+    <SUITE FILE_PATH="coverage/$pytest_for__login_test_get_sucess.coverage" NAME="pytest for 请求百度.login.test_get_sucess Coverage Results" MODIFIED="1571819443985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/worldcreator" />
     <SUITE FILE_PATH="coverage/$8_8.coverage" NAME="8-8 Coverage Results" MODIFIED="1564388914020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
-    <SUITE FILE_PATH="coverage/$Hello_Jasen.coverage" NAME="Hello_Jasen Coverage Results" MODIFIED="1551181163798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$8_5.coverage" NAME="8-5 Coverage Results" MODIFIED="1564383729615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
-    <SUITE FILE_PATH="coverage/$pytest_for_Login_Login.coverage" NAME="pytest for Login.Login Coverage Results" MODIFIED="1558610042933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../接口自动化/Sample_Code/Sample_Code/APIClass" />
     <SUITE FILE_PATH="coverage/$8_10_plan2.coverage" NAME="8_10_plan2 Coverage Results" MODIFIED="1564476115278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
     <SUITE FILE_PATH="coverage/$4_3.coverage" NAME="4-3 Coverage Results" MODIFIED="1556180727152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$2_4.coverage" NAME="2-4 Coverage Results" MODIFIED="1551181384179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
     <SUITE FILE_PATH="coverage/$2_7.coverage" NAME="2-7 Coverage Results" MODIFIED="1551193374649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
     <SUITE FILE_PATH="coverage/$5_11.coverage" NAME="5-11 Coverage Results" MODIFIED="1563261830996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$locustTestParam.coverage" NAME="locustTestParam的副本 Coverage Results" MODIFIED="1571713921312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
     <SUITE FILE_PATH="coverage/$6_11.coverage" NAME="6-11 Coverage Results" MODIFIED="1563438656728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$8_14.coverage" NAME="8-14 Coverage Results" MODIFIED="1564647486467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
-    <SUITE FILE_PATH="coverage/$3_9.coverage" NAME="3-9 Coverage Results" MODIFIED="1553854544546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$4_13.coverage" NAME="4-13 Coverage Results" MODIFIED="1557991381532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$8_13.coverage" NAME="8-13 Coverage Results" MODIFIED="1564646084471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
+    <SUITE FILE_PATH="coverage/$5.coverage" NAME="5 Coverage Results" MODIFIED="1572425103055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1574157513985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/$tets__1_.coverage" NAME="tets (1) Coverage Results" MODIFIED="1568876215969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/$take_token.coverage" NAME="take_token Coverage Results" MODIFIED="1571820059757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/worldcreator" />
     <SUITE FILE_PATH="coverage/$6_6.coverage" NAME="6-6 Coverage Results" MODIFIED="1563351801922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$pentagram_v1_0.coverage" NAME="pentagram_v1.0 Coverage Results" MODIFIED="1552735469900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘制分形树" />
+    <SUITE FILE_PATH="coverage/$4.coverage" NAME="4 Coverage Results" MODIFIED="1572331351286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
     <SUITE FILE_PATH="coverage/$8_1.coverage" NAME="8-1 Coverage Results" MODIFIED="1564139244421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
-    <SUITE FILE_PATH="coverage/$7_7.coverage" NAME="7-7 Coverage Results" MODIFIED="1564040155751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter7" />
+    <SUITE FILE_PATH="coverage/$pytest_for_test_quick_start_test_reverse.coverage" NAME="pytest for test_quick_start.test_reverse Coverage Results" MODIFIED="1571215288327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest" />
+    <SUITE FILE_PATH="coverage/$matplotlib_test.coverage" NAME="matplotlib_test Coverage Results" MODIFIED="1572507669668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/$yield_demo.coverage" NAME="yield_demo Coverage Results" MODIFIED="1572597853591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest" />
     <SUITE FILE_PATH="coverage/$8_2.coverage" NAME="8-2 Coverage Results" MODIFIED="1564139383375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
+    <SUITE FILE_PATH="coverage/$run.coverage" NAME="run Coverage Results" MODIFIED="1568863199504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../接口自动化/API_Automation-master/API_Automation-master" />
+    <SUITE FILE_PATH="coverage/$u2_cm.coverage" NAME="u2_cm Coverage Results" MODIFIED="1574836342244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uiautomator2" />
+    <SUITE FILE_PATH="coverage/$excel2.coverage" NAME="写入excel生成图表2 Coverage Results" MODIFIED="1572418730130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
     <SUITE FILE_PATH="coverage/$6_5.coverage" NAME="6-5 Coverage Results" MODIFIED="1563351491090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$2_3.coverage" NAME="2-3 Coverage Results" MODIFIED="1551193182648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$7_1.coverage" NAME="7-1 Coverage Results" MODIFIED="1563442583550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter7" />
-    <SUITE FILE_PATH="coverage/$7_6.coverage" NAME="7-6 Coverage Results" MODIFIED="1564038836293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter7" />
+    <SUITE FILE_PATH="coverage/$button_pyw.coverage" NAME="button.pyw Coverage Results" MODIFIED="1571997336917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具/cm_button" />
+    <SUITE FILE_PATH="coverage/$apkactivity.coverage" NAME="获取apk的包名和activity Coverage Results" MODIFIED="1574653198564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
     <SUITE FILE_PATH="coverage/$8_7.coverage" NAME="8-7 Coverage Results" MODIFIED="1564387758099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
     <SUITE FILE_PATH="coverage/$2_8.coverage" NAME="2-8 Coverage Results" MODIFIED="1551186439119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
     <SUITE FILE_PATH="coverage/$4_4.coverage" NAME="4-4 Coverage Results" MODIFIED="1557718463565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$7_5.coverage" NAME="7-5 Coverage Results" MODIFIED="1564024067093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter7" />
+    <SUITE FILE_PATH="coverage/$excel.coverage" NAME="查询启动时间并写入excel Coverage Results" MODIFIED="1572428092262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1574837816632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Program Files (x86)/Python37-32/Lib/tkinter" />
     <SUITE FILE_PATH="coverage/$7_2.coverage" NAME="7-2 Coverage Results" MODIFIED="1563451982620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter7" />
     <SUITE FILE_PATH="coverage/$6_7.coverage" NAME="6-7 Coverage Results" MODIFIED="1563352654016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$8_3.coverage" NAME="8-3 Coverage Results" MODIFIED="1564382682803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
     <SUITE FILE_PATH="coverage/$map.coverage" NAME="使用map函数来遍历 Coverage Results" MODIFIED="1564488944056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
-    <SUITE FILE_PATH="coverage/$7_8.coverage" NAME="7-8 Coverage Results" MODIFIED="1564053547770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter7" />
     <SUITE FILE_PATH="coverage/$8_6.coverage" NAME="8-6 Coverage Results" MODIFIED="1564386919732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
-    <SUITE FILE_PATH="coverage/$6_1.coverage" NAME="6-1 Coverage Results" MODIFIED="1563346578156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$5_3.coverage" NAME="5-3 Coverage Results" MODIFIED="1562136936527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
     <SUITE FILE_PATH="coverage/$8_demo_03.coverage" NAME="8_demo_03 Coverage Results" MODIFIED="1564475364424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
+    <SUITE FILE_PATH="coverage/$replace.coverage" NAME="replace Coverage Results" MODIFIED="1566466235929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter10" />
     <SUITE FILE_PATH="coverage/$8_9.coverage" NAME="8-9 Coverage Results" MODIFIED="1564467948004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
-    <SUITE FILE_PATH="coverage/$3_4.coverage" NAME="3-4 Coverage Results" MODIFIED="1551960834469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
     <SUITE FILE_PATH="coverage/$4_2.coverage" NAME="4-2 Coverage Results" MODIFIED="1553864233003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$8_12.coverage" NAME="8-12 Coverage Results" MODIFIED="1564642080167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
-    <SUITE FILE_PATH="coverage/$2_9.coverage" NAME="2-9 Coverage Results" MODIFIED="1551358019817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$pytest_for_sample_test.coverage" NAME="pytest for sample.test Coverage Results" MODIFIED="1554708181483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../GithubProject/GAutomator/GAutomatorAndroid/testcase" />
-    <SUITE FILE_PATH="coverage/$manage.coverage" NAME="manage Coverage Results" MODIFIED="1564371335807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test" />
-    <SUITE FILE_PATH="coverage/$5_6.coverage" NAME="5-6 Coverage Results" MODIFIED="1562222209725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$5_10.coverage" NAME="5-10 Coverage Results" MODIFIED="1563193289081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$8_demo_02.coverage" NAME="8_demo_02 Coverage Results" MODIFIED="1564474178669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
-    <SUITE FILE_PATH="coverage/$4_1.coverage" NAME="4-1 Coverage Results" MODIFIED="1553864155632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$6_10.coverage" NAME="6-10 Coverage Results" MODIFIED="1563437868904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$begin_learn.coverage" NAME="begin_learn Coverage Results" MODIFIED="1566465735462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter10" />
+    <SUITE FILE_PATH="coverage/$write_guest_10_3.coverage" NAME="write_guest_10-3 Coverage Results" MODIFIED="1566529173192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter10" />
+    <SUITE FILE_PATH="coverage/$Entry_01.coverage" NAME="Entry_01 Coverage Results" MODIFIED="1572934107858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
+    <SUITE FILE_PATH="coverage/$button.coverage" NAME="button Coverage Results" MODIFIED="1572860641849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
+    <SUITE FILE_PATH="coverage/$ss.coverage" NAME="ss Coverage Results" MODIFIED="1571215784983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest" />
+    <SUITE FILE_PATH="coverage/$apk.coverage" NAME="查看当前apk的内存占用 Coverage Results" MODIFIED="1574653555436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/$find_port.coverage" NAME="find_port Coverage Results" MODIFIED="1572443855294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/$m.coverage" NAME="m Coverage Results" MODIFIED="1574652541663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
     <SUITE FILE_PATH="coverage/$2_5.coverage" NAME="2-5 Coverage Results" MODIFIED="1551182253508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$5_8.coverage" NAME="5-8 Coverage Results" MODIFIED="1563186621848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
     <SUITE FILE_PATH="coverage/$7_4.coverage" NAME="7-4 Coverage Results" MODIFIED="1563968310575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter7" />
     <SUITE FILE_PATH="coverage/$6_9.coverage" NAME="6-9 Coverage Results" MODIFIED="1563437050309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$file_reader.coverage" NAME="file_reader Coverage Results" MODIFIED="1566463468557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter10" />
+    <SUITE FILE_PATH="coverage/$adb_tk.coverage" NAME="adb_tk Coverage Results" MODIFIED="1572506691180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/$debugtalk.coverage" NAME="debugtalk Coverage Results" MODIFIED="1574069477823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OKR" />
     <SUITE FILE_PATH="coverage/$6_2.coverage" NAME="6-2 Coverage Results" MODIFIED="1563350818437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
     <SUITE FILE_PATH="coverage/$make_pizza.coverage" NAME="make_pizza Coverage Results" MODIFIED="1564649949037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
     <SUITE FILE_PATH="coverage/$currency_converter_v2_0.coverage" NAME="currency_converter_v2.0 Coverage Results" MODIFIED="1551197248657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/汇率计算" />
-    <SUITE FILE_PATH="coverage/$6_8.coverage" NAME="6-8 Coverage Results" MODIFIED="1563435252926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$3_1.coverage" NAME="3-1 Coverage Results" MODIFIED="1551958982478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$7_3.coverage" NAME="7-3 Coverage Results" MODIFIED="1563452145654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter7" />
-    <SUITE FILE_PATH="coverage/$.coverage" NAME="第二章 Coverage Results" MODIFIED="1550744208051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/$6_8__1_.coverage" NAME="6-8 (1) Coverage Results" MODIFIED="1563436502372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$pytest_for_test_basic_TestBasic_test_basic_02.coverage" NAME="pytest for test_basic.TestBasic.test_basic_02 Coverage Results" MODIFIED="1568796069374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../接口自动化/API_Automation-master/API_Automation-master/TestCase" />
+    <SUITE FILE_PATH="coverage/$adb_tk_1.coverage" NAME="adb_tk_1 Coverage Results" MODIFIED="1572937527232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/$tupleTest.coverage" NAME="tupleTest Coverage Results" MODIFIED="1571125026206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/廖雪峰" />
+    <SUITE FILE_PATH="coverage/$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1569229943987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter10" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="解锁 Coverage Results" MODIFIED="1574771343835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uiautomator2" />
     <SUITE FILE_PATH="coverage/$7_9.coverage" NAME="7-9 Coverage Results" MODIFIED="1564054136448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter7" />
     <SUITE FILE_PATH="coverage/$8_demo_01.coverage" NAME="8_demo_01 Coverage Results" MODIFIED="1564457403213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
     <SUITE FILE_PATH="coverage/$currency_converter_v3_0.coverage" NAME="currency_converter_v3.0 Coverage Results" MODIFIED="1552307405311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/汇率计算" />
-    <SUITE FILE_PATH="coverage/$8_10.coverage" NAME="8-10 Coverage Results" MODIFIED="1564474117651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
     <SUITE FILE_PATH="coverage/$5_2.coverage" NAME="5-2 Coverage Results" MODIFIED="1557995195562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$pytest_in_api_automation_test.coverage" NAME="pytest in api_automation_test Coverage Results" MODIFIED="1564371375766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test" />
+    <SUITE FILE_PATH="coverage/$button_pyw__1_.coverage" NAME="button.pyw (1) Coverage Results" MODIFIED="1572262000056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/$etst.coverage" NAME="etst Coverage Results" MODIFIED="1572333074679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/$3_8.coverage" NAME="3-8 Coverage Results" MODIFIED="1553851662974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$get_register.coverage" NAME="get_register Coverage Results" MODIFIED="1573805788682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/locust" />
+    <SUITE FILE_PATH="coverage/$read_alice.coverage" NAME="read_alice Coverage Results" MODIFIED="1566558493846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter10" />
+    <SUITE FILE_PATH="coverage/$Checkbutton_01.coverage" NAME="Checkbutton_01 Coverage Results" MODIFIED="1572939589699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
+    <SUITE FILE_PATH="coverage/$5_4.coverage" NAME="5-4 Coverage Results" MODIFIED="1562135861905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$Hello_Jasen.coverage" NAME="Hello_Jasen Coverage Results" MODIFIED="1551181163798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$8_5.coverage" NAME="8-5 Coverage Results" MODIFIED="1564383729615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
+    <SUITE FILE_PATH="coverage/$9_14.coverage" NAME="9-14 Coverage Results" MODIFIED="1566454309279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter9" />
+    <SUITE FILE_PATH="coverage/$2.coverage" NAME="2 Coverage Results" MODIFIED="1573643114873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/locust" />
+    <SUITE FILE_PATH="coverage/$pytest_for_Login_Login.coverage" NAME="pytest for Login.Login Coverage Results" MODIFIED="1558610042933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../接口自动化/Sample_Code/Sample_Code/APIClass" />
+    <SUITE FILE_PATH="coverage/$2_4.coverage" NAME="2-4 Coverage Results" MODIFIED="1551181384179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$122.coverage" NAME="122 Coverage Results" MODIFIED="1569478639261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter10" />
+    <SUITE FILE_PATH="coverage/$df.coverage" NAME="df Coverage Results" MODIFIED="1570890797648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$8_14.coverage" NAME="8-14 Coverage Results" MODIFIED="1564647486467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
+    <SUITE FILE_PATH="coverage/$3_9.coverage" NAME="3-9 Coverage Results" MODIFIED="1553854544546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$Radiobutton_01.coverage" NAME="Radiobutton_01 Coverage Results" MODIFIED="1573198364167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
+    <SUITE FILE_PATH="coverage/$story_and.coverage" NAME="story_and Coverage Results" MODIFIED="1573647971301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cororling" />
+    <SUITE FILE_PATH="coverage/$write_message.coverage" NAME="write_message Coverage Results" MODIFIED="1568882655856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter10" />
+    <SUITE FILE_PATH="coverage/$4_13.coverage" NAME="4-13 Coverage Results" MODIFIED="1557991381532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$8_13.coverage" NAME="8-13 Coverage Results" MODIFIED="1564646084471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
+    <SUITE FILE_PATH="coverage/$9_14_2.coverage" NAME="9-14-2 Coverage Results" MODIFIED="1566445526071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter9" />
+    <SUITE FILE_PATH="coverage/$pytest_for_get_register_login_test_get_sucess.coverage" NAME="pytest for get_register.login.test_get_sucess Coverage Results" MODIFIED="1573627351961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/locust" />
+    <SUITE FILE_PATH="coverage/$pentagram_v1_0.coverage" NAME="pentagram_v1.0 Coverage Results" MODIFIED="1552735469900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘制分形树" />
+    <SUITE FILE_PATH="coverage/$pytest_in_test_calc_py.coverage" NAME="pytest in test_calc.py Coverage Results" MODIFIED="1571126419029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest" />
+    <SUITE FILE_PATH="coverage/$7_7.coverage" NAME="7-7 Coverage Results" MODIFIED="1564040155751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter7" />
+    <SUITE FILE_PATH="coverage/$read_english.coverage" NAME="read_english Coverage Results" MODIFIED="1566544940809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter10" />
+    <SUITE FILE_PATH="coverage/$tets2.coverage" NAME="tets2 Coverage Results" MODIFIED="1568872935276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter10" />
+    <SUITE FILE_PATH="coverage/$2_3.coverage" NAME="2-3 Coverage Results" MODIFIED="1551193182648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$7_1.coverage" NAME="7-1 Coverage Results" MODIFIED="1563442583550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter7" />
+    <SUITE FILE_PATH="coverage/$pytest_in__py.coverage" NAME="pytest in 请求百度.py Coverage Results" MODIFIED="1571819495534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/worldcreator" />
+    <SUITE FILE_PATH="coverage/$7_6.coverage" NAME="7-6 Coverage Results" MODIFIED="1564038836293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter7" />
+    <SUITE FILE_PATH="coverage/$9_13.coverage" NAME="9-13 Coverage Results" MODIFIED="1565946647000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter9" />
+    <SUITE FILE_PATH="coverage/$pytest_for_test_user_password_TestUserPassword_test_user_password.coverage" NAME="pytest for test_user_password.TestUserPassword.test_user_password Coverage Results" MODIFIED="1571218162129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest" />
+    <SUITE FILE_PATH="coverage/$7_5.coverage" NAME="7-5 Coverage Results" MODIFIED="1564024067093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter7" />
+    <SUITE FILE_PATH="coverage/$8_3.coverage" NAME="8-3 Coverage Results" MODIFIED="1564382682803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
+    <SUITE FILE_PATH="coverage/$3.coverage" NAME="3 Coverage Results" MODIFIED="1572332576510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/$7_8.coverage" NAME="7-8 Coverage Results" MODIFIED="1564053547770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter7" />
+    <SUITE FILE_PATH="coverage/$6_1.coverage" NAME="6-1 Coverage Results" MODIFIED="1563346578156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$get_register__1_.coverage" NAME="get_register (1) Coverage Results" MODIFIED="1574166372987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OKR" />
+    <SUITE FILE_PATH="coverage/$6.coverage" NAME="6 Coverage Results" MODIFIED="1572429508784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/$5_3.coverage" NAME="5-3 Coverage Results" MODIFIED="1562136936527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$tets.coverage" NAME="tets Coverage Results" MODIFIED="1568870545064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter10" />
+    <SUITE FILE_PATH="coverage/$Label_01.coverage" NAME="Label_01 Coverage Results" MODIFIED="1572245518492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
+    <SUITE FILE_PATH="coverage/$df2.coverage" NAME="df2 Coverage Results" MODIFIED="1572943003545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cororling" />
+    <SUITE FILE_PATH="coverage/$pytest_for_test_user_password_TestUserPassword.coverage" NAME="pytest for test_user_password.TestUserPassword Coverage Results" MODIFIED="1571218550685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest" />
+    <SUITE FILE_PATH="coverage/$test.coverage" NAME="test Coverage Results" MODIFIED="1574676954305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/$width.coverage" NAME="width Coverage Results" MODIFIED="1574672244247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/廖雪峰" />
+    <SUITE FILE_PATH="coverage/$3_4.coverage" NAME="3-4 Coverage Results" MODIFIED="1551960834469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$8_12.coverage" NAME="8-12 Coverage Results" MODIFIED="1564642080167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
+    <SUITE FILE_PATH="coverage/$2_9.coverage" NAME="2-9 Coverage Results" MODIFIED="1551358019817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$pytest_for_sample_test.coverage" NAME="pytest for sample.test Coverage Results" MODIFIED="1554708181483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../GithubProject/GAutomator/GAutomatorAndroid/testcase" />
+    <SUITE FILE_PATH="coverage/$locustTest03.coverage" NAME="locustTest03 Coverage Results" MODIFIED="1571732722203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/locust" />
+    <SUITE FILE_PATH="coverage/$manage.coverage" NAME="manage Coverage Results" MODIFIED="1574928506412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Django/guest" />
+    <SUITE FILE_PATH="coverage/$pytest_in_get_register_py.coverage" NAME="pytest in get_register.py Coverage Results" MODIFIED="1573627630717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/locust" />
+    <SUITE FILE_PATH="coverage/$5_6.coverage" NAME="5-6 Coverage Results" MODIFIED="1562222209725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$ssd.coverage" NAME="ssd Coverage Results" MODIFIED="1571366815419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest" />
+    <SUITE FILE_PATH="coverage/$5_10.coverage" NAME="5-10 Coverage Results" MODIFIED="1563193289081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$8_demo_02.coverage" NAME="8_demo_02 Coverage Results" MODIFIED="1564474178669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
+    <SUITE FILE_PATH="coverage/$pythonapk.coverage" NAME="python获取apk信息 Coverage Results" MODIFIED="1574837079741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/$4_1.coverage" NAME="4-1 Coverage Results" MODIFIED="1553864155632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$6_10.coverage" NAME="6-10 Coverage Results" MODIFIED="1563437868904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$yield_demo2.coverage" NAME="yield_demo2 Coverage Results" MODIFIED="1572598279069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest" />
+    <SUITE FILE_PATH="coverage/$5_8.coverage" NAME="5-8 Coverage Results" MODIFIED="1563186621848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$pytest_in_test_01_py.coverage" NAME="pytest in test_01.py Coverage Results" MODIFIED="1571125305075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest" />
+    <SUITE FILE_PATH="coverage/$Listbox_01.coverage" NAME="Listbox_01 Coverage Results" MODIFIED="1574839241602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
+    <SUITE FILE_PATH="coverage/$6_8.coverage" NAME="6-8 Coverage Results" MODIFIED="1563435252926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$tk.coverage" NAME="tk Coverage Results" MODIFIED="1571994425112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小工具" />
+    <SUITE FILE_PATH="coverage/$3_1.coverage" NAME="3-1 Coverage Results" MODIFIED="1551958982478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$7_3.coverage" NAME="7-3 Coverage Results" MODIFIED="1563452145654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter7" />
+    <SUITE FILE_PATH="coverage/$6_8__1_.coverage" NAME="6-8 (1) Coverage Results" MODIFIED="1563436502372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
+    <SUITE FILE_PATH="coverage/$1.coverage" NAME="1 Coverage Results" MODIFIED="1573633258701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/locust" />
+    <SUITE FILE_PATH="coverage/$8_10.coverage" NAME="8-10 Coverage Results" MODIFIED="1564474117651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book/chapter8" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/book/chapter8/make_pizza.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book/chapter8/pizaa.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package.json" />
         <option value="Python Script" />
       </list>
     </option>
@@ -128,79 +201,95 @@
     <findStrings>
       <find>forward</find>
       <find>screentime</find>
+      <find>online</find>
+      <find>TK</find>
+      <find>sp</find>
+      <find>butt</find>
+      <find>clear</find>
+      <find>Tk</find>
+      <find>启动时间</find>
+      <find>开始</find>
+      <find>baoming</find>
+      <find>apkName</find>
+      <find>csrf</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/小工具/m.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/小工具/tk.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/小工具/查询启动时间并写入excel.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pytest/test_user_password.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pytest/test_quick_start.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/book/5-2.py" />
-        <option value="$PROJECT_DIR$/book/5-.py" />
-        <option value="$PROJECT_DIR$/book/5-4.py" />
-        <option value="$PROJECT_DIR$/book/5-3.py" />
-        <option value="$PROJECT_DIR$/book/5-6.py" />
-        <option value="$PROJECT_DIR$/book/5-8.py" />
-        <option value="$PROJECT_DIR$/book/5-10.py" />
-        <option value="$PROJECT_DIR$/book/5-11.py" />
-        <option value="$PROJECT_DIR$/book/6-1.py" />
-        <option value="$PROJECT_DIR$/book/6-2.py" />
-        <option value="$PROJECT_DIR$/book/6=5.py" />
-        <option value="$PROJECT_DIR$/book/6-5.py" />
-        <option value="$PROJECT_DIR$/book/6-6.py" />
-        <option value="$PROJECT_DIR$/book/6-7.py" />
-        <option value="$PROJECT_DIR$/book/6=9.py" />
-        <option value="$PROJECT_DIR$/book/6-9.py" />
-        <option value="$PROJECT_DIR$/book/6-8.py" />
-        <option value="$PROJECT_DIR$/book/6-10.py" />
-        <option value="$PROJECT_DIR$/book/6-11.py" />
-        <option value="$PROJECT_DIR$/book/chapter7/7-1.py" />
-        <option value="$PROJECT_DIR$/book/chapter7/7-2.py" />
-        <option value="$PROJECT_DIR$/book/chapter7/7-3.py" />
-        <option value="$PROJECT_DIR$/book/chapter7/7-4.py" />
-        <option value="$PROJECT_DIR$/book/chapter7/7-5.py" />
-        <option value="$PROJECT_DIR$/book/chapter7/7-6.py" />
-        <option value="$PROJECT_DIR$/book/chapter7/7-7.py" />
-        <option value="$PROJECT_DIR$/book/chapter7/7-8.py" />
-        <option value="$PROJECT_DIR$/book/chapter7/7-9.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8-1.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8-2.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8-3.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8-4.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8-5.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8-6.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8-7.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8-8.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8-9.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8_demo_02.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8-10.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8_demo_03.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8_10_plan2.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/使用map函数来遍历.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8-11.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8-12.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8-13.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8-14.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/printing_functions.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8_demo_01.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8-15.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/8-16.py" />
-        <option value="$PROJECT_DIR$/book/chapter8/make_pizza.py" />
+        <option value="$PROJECT_DIR$/小工具/etst.py" />
+        <option value="$PROJECT_DIR$/小工具/6.py" />
+        <option value="$PROJECT_DIR$/小工具/识别adb端口占用情况2.py" />
+        <option value="$PROJECT_DIR$/小工具/查询启动时间并写入excel.py" />
+        <option value="$PROJECT_DIR$/小工具/find_port.py" />
+        <option value="$PROJECT_DIR$/小工具/adb_tk.py" />
+        <option value="$PROJECT_DIR$/pytest/yield_demo2.py" />
+        <option value="$PROJECT_DIR$/一些语句用法/join()的用法.py" />
+        <option value="$PROJECT_DIR$/Tkinter/demo.py" />
+        <option value="$PROJECT_DIR$/Tkinter/button.py" />
+        <option value="$PROJECT_DIR$/小工具/adb_tk_1.py" />
+        <option value="$PROJECT_DIR$/Tkinter/button_01.py" />
+        <option value="$PROJECT_DIR$/Tkinter/Entry_01.py" />
+        <option value="$PROJECT_DIR$/Tkinter/Checkbutton.py" />
+        <option value="$PROJECT_DIR$/Tkinter/Checkbutton_01.py" />
+        <option value="$PROJECT_DIR$/cororling/df2.py" />
+        <option value="$PROJECT_DIR$/Tkinter/Radiobutton_01.py" />
+        <option value="$PROJECT_DIR$/locust/1.py" />
+        <option value="$PROJECT_DIR$/locust/2.py" />
+        <option value="$PROJECT_DIR$/cororling/story_and.py" />
+        <option value="$PROJECT_DIR$/locust/get_register.py" />
+        <option value="$PROJECT_DIR$/OKR/get_sign.py" />
+        <option value="$PROJECT_DIR$/locust/locustfile.py" />
+        <option value="$PROJECT_DIR$/test/test01.py" />
+        <option value="$PROJECT_DIR$/OKR/debugtalk.py" />
+        <option value="$PROJECT_DIR$/请求接口/请求百度.py" />
+        <option value="$PROJECT_DIR$/小工具/获取apk的包名和activity.py" />
+        <option value="$PROJECT_DIR$/小工具/查看当前apk的内存占用.py" />
+        <option value="$PROJECT_DIR$/廖雪峰/序列号.py" />
+        <option value="$PROJECT_DIR$/廖雪峰/使用类来序列化.py" />
+        <option value="$PROJECT_DIR$/廖雪峰/序列化.py" />
+        <option value="$PROJECT_DIR$/廖雪峰/进程与线程.py" />
+        <option value="$PROJECT_DIR$/廖雪峰/常用模块/获取当前时间.py" />
+        <option value="$PROJECT_DIR$/小工具/test.py" />
+        <option value="$PROJECT_DIR$/OKR/user_login.json" />
+        <option value="$PROJECT_DIR$/uiautomator2/解锁.py" />
+        <option value="$PROJECT_DIR$/uiautomator2/u2_cm.py" />
+        <option value="$PROJECT_DIR$/小工具/python获取apk信息.py" />
+        <option value="$PROJECT_DIR$/Tkinter/Listbox_01.py" />
+        <option value="$PROJECT_DIR$/Django/demo.py" />
+        <option value="$PROJECT_DIR$/Django/guest/sign/templates/index.html.py" />
+        <option value="$PROJECT_DIR$/Django/guest/sign/views.py" />
+        <option value="$PROJECT_DIR$/小工具/识别adb端口占用情况.py" />
+        <option value="$PROJECT_DIR$/Django/guest/guest/settings.py" />
+        <option value="$PROJECT_DIR$/Django/guest/guest/urls.py" />
+        <option value="$PROJECT_DIR$/Django/guest/sign/templates/index.html" />
+        <option value="$PROJECT_DIR$/DjangoTest/guest/guest/settings.py" />
+        <option value="$PROJECT_DIR$/DjangoTest/guest/guest/urls.py" />
+        <option value="$PROJECT_DIR$/DjangoTest/guest/sign/views.py" />
+        <option value="$PROJECT_DIR$/DjangoTest/guest/sign/templates/index.html" />
+        <option value="$PROJECT_DIR$/OKR/get_register.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1909" />
-    <option name="y" value="-11" />
-    <option name="width" value="1940" />
-    <option name="height" value="1047" />
+    <option name="x" value="1902" />
+    <option name="y" value="-18" />
+    <option name="width" value="1946" />
+    <option name="height" value="1054" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="添加" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <showMembers ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
@@ -216,68 +305,23 @@
             <path>
               <item name="大象学院" type="b2602c69:ProjectViewProjectNode" />
               <item name="大象学院" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="大象学院" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="大象学院" type="b2602c69:ProjectViewProjectNode" />
-              <item name="大象学院" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="大象学院" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="大象学院" type="b2602c69:ProjectViewProjectNode" />
-              <item name="大象学院" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="大象学院" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="大象学院" type="b2602c69:ProjectViewProjectNode" />
-              <item name="大象学院" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="自动化接口测试平台" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="大象学院" type="b2602c69:ProjectViewProjectNode" />
-              <item name="大象学院" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="自动化接口测试平台" type="462c0819:PsiDirectoryNode" />
-              <item name="api_automation_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="大象学院" type="b2602c69:ProjectViewProjectNode" />
-              <item name="大象学院" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="自动化接口测试平台" type="462c0819:PsiDirectoryNode" />
-              <item name="api_automation_test" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="大象学院" type="b2602c69:ProjectViewProjectNode" />
-              <item name="大象学院" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="自动化接口测试平台" type="462c0819:PsiDirectoryNode" />
-              <item name="api_automation_test" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="大象学院" type="b2602c69:ProjectViewProjectNode" />
-              <item name="大象学院" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="自动化接口测试平台" type="462c0819:PsiDirectoryNode" />
-              <item name="api_automation_test" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="API_Automation-master" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../接口自动化/Sample_Code/Sample_Code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -288,18 +332,19 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\大象学院\book\chapter6" />
-      <recent name="D:\大象学院\book\chapter5" />
-      <recent name="D:\大象学院\book\chapter4" />
-      <recent name="D:\大象学院\book\chapter3" />
-      <recent name="D:\大象学院\book\chapter2" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\大象学院\book\chapter8" />
-      <recent name="D:\大象学院\book" />
-      <recent name="D:\GithubProject\自动化接口测试平台\cororling" />
-      <recent name="D:\大象学院\汇率计算" />
+      <recent name="D:\大象学院\小工具" />
+      <recent name="D:\大象学院\小工具\cm_button" />
+      <recent name="D:\大象学院\locust" />
+      <recent name="D:\接口自动化\API_Automation-master\API_Automation-master\TestCase" />
+      <recent name="D:\接口自动化\API_Automation-master\API_Automation-master\Params\Param" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\大象学院\OKR" />
+      <recent name="D:\大象学院\一些语句用法" />
+      <recent name="D:\大象学院\worldcreator" />
+      <recent name="D:\大象学院\cororling" />
+      <recent name="D:\大象学院\小工具" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -314,8 +359,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.make_pizza">
-    <configuration name="8-11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager">
+    <configuration name="Listbox_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="大象学院" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,12 +368,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/chapter8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/chapter8/8-11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter/Listbox_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,7 +382,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8-12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="获取当前时间" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="大象学院" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,12 +390,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/chapter8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/廖雪峰/常用模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/chapter8/8-12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/廖雪峰/常用模块/获取当前时间.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,7 +404,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8-13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="序列化" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="大象学院" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -367,12 +412,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/chapter8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/廖雪峰" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/chapter8/8-13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/廖雪峰/序列化.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -381,7 +426,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8-14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="大象学院" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -389,12 +434,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/chapter8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Program Files (x86)/Python37-32/Lib/tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/chapter8/8-14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program Files (x86)/Python37-32/Lib/tkinter/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -403,7 +448,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="make_pizza" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="识别adb端口占用情况" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="大象学院" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -411,12 +456,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/chapter8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/小工具" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/chapter8/make_pizza.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/小工具/识别adb端口占用情况.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -425,22 +470,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.8-11" />
-      <item itemvalue="Python.8-12" />
-      <item itemvalue="Python.8-13" />
-      <item itemvalue="Python.8-14" />
-      <item itemvalue="Python.make_pizza" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.make_pizza" />
-        <item itemvalue="Python.8-14" />
-        <item itemvalue="Python.8-13" />
-        <item itemvalue="Python.8-12" />
-        <item itemvalue="Python.8-11" />
-      </list>
-    </recent_temporary>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="大象学院" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Django/guest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Django/guest/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python获取apk信息" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="大象学院" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/小工具" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/小工具/python获取apk信息.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -479,25 +552,93 @@
       <workItem from="1563434794330" duration="13544000" />
       <workItem from="1564025869272" duration="232000" />
       <workItem from="1564370532041" duration="31531000" />
+      <workItem from="1565248101860" duration="60000" />
+      <workItem from="1565256297032" duration="654000" />
+      <workItem from="1565331930249" duration="4864000" />
+      <workItem from="1565603590869" duration="55000" />
+      <workItem from="1565946366817" duration="4234000" />
+      <workItem from="1566282461714" duration="485000" />
+      <workItem from="1566444538351" duration="13595000" />
+      <workItem from="1566527808271" duration="16903000" />
+      <workItem from="1567065766501" duration="645000" />
+      <workItem from="1567406584350" duration="1989000" />
+      <workItem from="1567587931416" duration="2524000" />
+      <workItem from="1567670432678" duration="3472000" />
+      <workItem from="1568604488619" duration="612000" />
+      <workItem from="1568616242828" duration="2560000" />
+      <workItem from="1568705750256" duration="9313000" />
+      <workItem from="1568797897748" duration="11312000" />
+      <workItem from="1568882546610" duration="1530000" />
+      <workItem from="1568972786905" duration="11972000" />
+      <workItem from="1569330098391" duration="19705000" />
+      <workItem from="1570601760343" duration="598000" />
+      <workItem from="1570608110946" duration="5070000" />
+      <workItem from="1570888954016" duration="2300000" />
+      <workItem from="1571035820630" duration="1823000" />
+      <workItem from="1571107165831" duration="7107000" />
+      <workItem from="1571193714016" duration="9583000" />
+      <workItem from="1571366771161" duration="6484000" />
+      <workItem from="1571626752132" duration="50624000" />
+      <workItem from="1571975620748" duration="9769000" />
+      <workItem from="1572000490889" duration="1539000" />
+      <workItem from="1572004721680" duration="11350000" />
+      <workItem from="1572261921350" duration="5181000" />
+      <workItem from="1572317353064" duration="54700000" />
+      <workItem from="1572596196697" duration="7153000" />
+      <workItem from="1572847058379" duration="9423000" />
+      <workItem from="1572922119431" duration="12590000" />
+      <workItem from="1573010117850" duration="12542000" />
+      <workItem from="1573312679262" duration="624000" />
+      <workItem from="1573441527678" duration="23406000" />
+      <workItem from="1573702443844" duration="3630000" />
+      <workItem from="1573816185431" duration="17991000" />
+      <workItem from="1574146938802" duration="19276000" />
+      <workItem from="1574650959851" duration="3110000" />
+      <workItem from="1574664146197" duration="11095000" />
+      <workItem from="1574736941797" duration="32636000" />
+      <workItem from="1574928823522" duration="5219000" />
+      <workItem from="1574940539694" duration="574000" />
+      <workItem from="1574941194244" duration="109000" />
+      <workItem from="1574941321754" duration="12000" />
+      <workItem from="1575008359092" duration="6000" />
+      <workItem from="1575287719295" duration="42000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_sample_test - 2019.04.03 at 10h 52m 22s.xml">
-      <configuration name="pytest for sample.test" configurationId="tests" />
+    <history-entry file="pytest_for_test_user_password_TestUserPassword_test_user_password - 2019.10.16 at 17h 28m 43s.xml">
+      <configuration name="pytest for test_user_password.TestUserPassword.test_user_password" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_sample_test - 2019.04.08 at 15h 23m 18s.xml">
-      <configuration name="pytest for sample.test" configurationId="tests" />
+    <history-entry file="pytest_for_test_user_password_TestUserPassword_test_user_password - 2019.10.16 at 17h 29m 23s.xml">
+      <configuration name="pytest for test_user_password.TestUserPassword.test_user_password" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_Login_Login - 2019.05.23 at 19h 14m 06s.xml">
-      <configuration name="pytest for Login.Login" configurationId="tests" />
+    <history-entry file="pytest_for_test_user_password_TestUserPassword - 2019.10.16 at 17h 35m 31s.xml">
+      <configuration name="pytest for test_user_password.TestUserPassword" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_api_automation_test - 2019.07.29 at 11h 36m 17s.xml">
-      <configuration name="pytest in api_automation_test" configurationId="tests" />
+    <history-entry file="pytest_for_test_user_password_TestUserPassword - 2019.10.16 at 17h 35m 51s.xml">
+      <configuration name="pytest for test_user_password.TestUserPassword" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_请求百度_py - 2019.10.23 at 16h 29m 37s.xml">
+      <configuration name="pytest in 请求百度.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_请求百度_login_test_get_sucess - 2019.10.23 at 16h 30m 08s.xml">
+      <configuration name="pytest for 请求百度.login.test_get_sucess" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_请求百度_login_test_get_sucess - 2019.10.23 at 16h 30m 45s.xml">
+      <configuration name="pytest for 请求百度.login.test_get_sucess" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_请求百度_py - 2019.10.23 at 16h 31m 37s.xml">
+      <configuration name="pytest in 请求百度.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_get_register_login_test_get_sucess - 2019.11.13 at 14h 42m 35s.xml">
+      <configuration name="pytest for get_register.login.test_get_sucess" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_get_register_py - 2019.11.13 at 14h 47m 12s.xml">
+      <configuration name="pytest in get_register.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148374000" />
+    <option name="totallyTimeSpent" value="580424000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -510,375 +651,311 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="1431" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Structure" order="0" sideWeight="0.5010846" side_tool="true" weight="0.23379461" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.27312455" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4989154" visible="true" weight="0.22939068" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30637637" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31415242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32970452" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286334" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.1793961" />
-      <window_info anchor="bottom" id="调试" order="13" weight="0.3452566" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.27527216" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.281493" />
+      <window_info anchor="bottom" id="调试" order="13" weight="0.38258165" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32993445" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22312045" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27353463" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32936078" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.22202487" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/book/chapter7/7-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter7/7-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter7/7-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter7/7-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter7/7-6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter7/7-7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter7/7-8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter7/7-9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../接口自动化/Sample_Code/Sample_Code/APIClass/SetPassword.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-375">
-          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../接口自动化/Sample_Code/Sample_Code/ExcelDriver_对比结果示例代码.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../接口自动化/Sample_Code/Sample_Code/-----------说明-----------.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test/api_automation_test/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test/api_automation_test/settings.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test/api_test/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test/frontend/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test/img/API列表.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../接口自动化/Sample_Code/Sample_Code/APIClass/Login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test/img/项目结构图.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test/img/项目概况.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test/frontend/LICENSE">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/绘制分形树/分形树demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1375">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test/img/前端目录简介.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test/img/新增分组.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test/img/新增Host.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test/frontend/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="53" lean-forward="true" selection-end-column="1405" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GithubProject/自动化接口测试平台/api_automation_test/img/数据库配置.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8-6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8-7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8-8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8-9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-2036615904/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="3788" column="21" lean-forward="true" selection-start-line="3788" selection-start-column="21" selection-end-line="3788" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8-10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8-11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/小度otr截图比对.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-          <folding>
-            <element signature="e#85#106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8-13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8-12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8-14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8_demo_03.py">
+    <entry file="file://$PROJECT_DIR$/worldcreator/login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8_demo_02.py">
+    <entry file="file://$PROJECT_DIR$/../Program Files (x86)/Python37-32/Lib/hashlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auto_test_platform/Python/Python27/Lib/hmac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="124" column="9" lean-forward="true" selection-start-line="124" selection-start-column="9" selection-end-line="124" selection-end-column="9" />
+          <folding>
+            <element signature="e#128#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locust/locustTest03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locust/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locust/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="e#1#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+          <folding>
+            <element signature="e#14#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小工具/m.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <element signature="e#38#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Anaconda3/Lib/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="236" selection-start-line="236" selection-end-line="236" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰/使用类来序列化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/os/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/廖雪峰/width.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小工具/查看当前apk的内存占用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小工具/获取apk的包名和activity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#14#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰/序列化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰/进程与线程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰/常用模块/获取当前时间.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OKR/user_login.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OKR/user_login_manyDid.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/使用map函数来遍历.py">
+    <entry file="file://$PROJECT_DIR$/OKR/logout.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/printing_functions.py">
+    <entry file="file://$PROJECT_DIR$/小工具/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../玩蛇之路/appium/venv/Lib/site-packages/uiautomator2/ext/aircv/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/uiautomator2/解锁.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小工具/python获取apk信息.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="66" column="52" lean-forward="true" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="52" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tkinter/Label_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Program Files (x86)/Python37-32/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="3991" column="16" selection-start-line="3991" selection-start-column="16" selection-end-line="3991" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小工具/button.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5250" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tkinter/Listbox_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Program Files (x86)/Python37-32/Lib/hmac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="141" column="28" selection-start-line="141" selection-start-column="28" selection-end-line="141" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiautomator2/u2_cm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../玩蛇之路/appium/venv/Lib/site-packages/uiautomator2/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/OKR/debugtalk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="e#14#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/请求接口/请求百度.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/demo.py" />
+    <entry file="file://$PROJECT_DIR$/Django/guest/sign/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Django/guest/sign/admin.py" />
+    <entry file="file://$PROJECT_DIR$/Django/guest/guest/wsgi.py" />
+    <entry file="file://$PROJECT_DIR$/Django/guest/sign/tests.py" />
+    <entry file="file://$PROJECT_DIR$/Django/guest/guest/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/小工具/识别adb端口占用情况.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/8_demo_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/pizaa.py">
+    <entry file="file://$PROJECT_DIR$/Django/guest/manage.py" />
+    <entry file="file://$PROJECT_DIR$/Django/guest/sign/views.py" />
+    <entry file="file://$PROJECT_DIR$/Django/guest/guest/settings.py" />
+    <entry file="file://$PROJECT_DIR$/Django/guest/sign/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/Django/guest/guest/urls.py" />
+    <entry file="file://$PROJECT_DIR$/DjangoTest/guest/guest/settings.py" />
+    <entry file="file://$PROJECT_DIR$/DjangoTest/guest/sign/views.py" />
+    <entry file="file://$PROJECT_DIR$/DjangoTest/guest/guest/urls.py" />
+    <entry file="file://$PROJECT_DIR$/DjangoTest/guest/sign/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/OKR/get_register.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#38#58#0" expanded="true" />
+            <marker date="1575287762029" expanded="true" signature="547:622" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/book/chapter8/make_pizza.py">
+    <entry file="file://$PROJECT_DIR$/OKR/device_register.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="176">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
         </state>
       </provider>
     </entry>

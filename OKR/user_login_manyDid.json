@@ -1,0 +1,14 @@
+{
+    "config": {
+        "name": "create users with parameters"
+    },
+    "testcases": {
+        "create user $did": {
+            "testcase": "logout.json",
+            "parameters": {
+                "did": ["f33786ede5a203c8e68c928d23c684f7","f44191c9889f79ff8bbeb6307b1fa946","637f6963852b8524f00598c4e37de608"]
+
+            }
+        }
+    }
+}

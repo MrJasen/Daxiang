@@ -1,0 +1,56 @@
+{
+    "config": {
+        "name": "testcase description",
+        "variables": [
+            {"sid":"123456"},
+            {"appSalt":"A+q*2k^7MW"},
+            {"appid":"175309054"},
+            {"type":"1"},
+            {"extra":"getuser"}
+        ],
+        "base_url":"http://xproxy.ksmobile.com"
+
+    },
+    "teststeps": [
+        {
+            "name": "设备注册",
+            "request": {
+                "url": "/6/cgi/device_register",
+                "method": "POST",
+                "headers": {
+                    "User-Agent": "python-requests/2.21.0",
+                    "Content-Type": "application/x-www-form-urlencoded",
+                    "sig": "${get_sig()}",
+                    "appid": "$appid",
+                    "sid": "$sid"
+                },
+                "data": {
+                    "did": "${get_did()}",
+                    "key": "${get_key()}",
+                    "type": "$type",
+                    "extra": "$extra"
+                }
+            },
+            "validate": [
+                {
+                    "eq": [
+                        "status_code",
+                        200
+                    ]
+                },
+                {
+                    "eq": [
+                        "headers.Content-Type",
+                        "application/json; charset=utf-8"
+                    ]
+                },
+                {
+                    "eq": [
+                        "content.ret",
+                        1
+                    ]
+                }
+            ]
+        }      
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "config": {
+        "name": "testcase description",
+        "variables": [
+            {"sid":"123456"},
+            {"appSalt":"A+q*2k^7MW"},
+            {"appid":"175309054"},
+            {"type":"1"},
+            {"extra":"getuser"},
+            {"key":"${get_add_key($did)}"}
+
+        ],
+        "base_url":"http://xproxy.ksmobile.com"
+    },
+    "teststeps": [
+        {
+            "name": "设备登录",
+            "request": {
+                "url": "/6/cgi/device_login",
+                "method": "POST",
+                "headers": {
+                    "Expect": "100-continue",
+                    "sig": "${get_sig()}",
+                    "Content-Type": "application/x-www-form-urlencoded",
+                    "appid": "$appid",
+                    "sid": "$sid"
+                },
+                "data": {
+                    "did": "$did",
+                    
+                    "sign": "${get_sign($key,$did)}",
+                    "type": "$type",
+                    "extra": "$extra"
+                }
+            },
+            "extract":[
+                {"sso_token":"content.data.sso_token"}
+            ],
+            "validate": [
+                {
+                    "eq": [
+                        "status_code",
+                        200
+                    ]
+                },
+                {
+                    "eq": [
+                        "headers.Content-Type",
+                        "application/json; charset=utf-8"
+                    ]
+                },
+                {
+                    "eq": [
+                        "content.ret",
+                        1
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "设备登出",
+            "request": {
+                "url": "/6/cgi/logout",
+                "params": {
+                    "sso_token": "$sso_token"
+                },
+                "method": "GET",
+                "headers": {
+                    "appid": "$appid",
+                    "sid": "$sid",
+                    "sig": "${get_sig()}",
+                    "Content-Type": "application/x-www-form-urlencoded",
+                    "User-Agent": "PostmanRuntime/7.19.0"
+
+                }
+            },
+            "validate": [
+                {
+                    "eq": [
+                        "status_code",
+                        200
+                    ]
+                },
+                {
+                    "eq": [
+                        "headers.Content-Type",
+                        "application/json; charset=utf-8"
+                    ]
+                },
+                {
+                    "eq": [
+                        "content.ret",
+                        1
+                    ]
+                }
+            ]
+        }
+        
+
+
+    ]
+}
